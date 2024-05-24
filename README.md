@@ -1,4 +1,4 @@
-# Preview by Project Link Below
+# Preview the Project by Opening Link Below
 
 https://idyllic-smakager-ff31b6.netlify.app/
 
